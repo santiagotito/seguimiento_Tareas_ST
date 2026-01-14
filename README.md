@@ -1,6 +1,6 @@
-# Tráfico Proyectos JMC - Sistema de Gestión de Tareas
+# Tráfico S.T. - Sistema de Gestión de Tareas
 
-Sistema de seguimiento de tareas para equipos de analítica con integración a Google Sheets y generación de reportes con IA.
+Sistema de seguimiento de tareas con integración a Google Sheets, roles diferenciados (Admin, Supervisor, Analyst) y generación de reportes.
 
 ## 🚀 Características
 
